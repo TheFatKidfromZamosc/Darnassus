@@ -1,0 +1,1 @@
+C:\Users\4m\source\repos\bit\bit\bit.csproj;x64
